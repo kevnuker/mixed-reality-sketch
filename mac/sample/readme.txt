@@ -1,1 +1,0 @@
-Mac desktop prototype
