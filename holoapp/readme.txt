@@ -1,1 +1,1 @@
-Versions of the app based on development history.
+Versions of the app based along with development history notes.
