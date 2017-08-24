@@ -1,1 +1,1 @@
-All primitive assests.
+Assets root folder.
